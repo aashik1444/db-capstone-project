@@ -1,0 +1,6 @@
+OrderID,OrderDate,Quantity,BillAmount,ItemName,Price,Cuisine,CustomerID,FirstName,LastName
+1,2025-06-01,2,86,Olives,5,Greek,1,Anna,Iversen
+2,2025-06-02,3,160,Minestrone,8,Italian,2,Joakim,Iversen
+3,2025-06-03,1,37,Pizza,15,Italian,3,Vanessa,McCarthy
+5,2025-06-05,5,270,"Greek salad",15,Greek,5,Hiroki,Yamane
+6,2025-06-06,2,50,"Athens White wine",25,Greek,6,Diana,Pinto
