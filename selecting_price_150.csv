@@ -1,0 +1,4 @@
+CustomerID,FullName,OrderID,Cost,Cuisine,Name,Type
+2,"Joakim Iversen",2,160,Italian,Minestrone,Starters
+4,"Marcos Romero",4,220,Turkish,Falafel,Starters
+5,"Hiroki Yamane",5,270,Greek,"Greek salad","Main Courses"
